@@ -19,7 +19,7 @@ Now, I’m preparing to dive into **reverse engineering**, and I plan to try pla
 
 ## 🚩 Featured Projects
 
-- [**FT-NM**](https://github.com/vkerob/ft_nm): Custom Linux `nm` implementation in C.
+- [**ft_nm**](https://github.com/vkerob/ft_nm): Custom Linux `nm` implementation in C.
 - [**Malloc**](https://github.com/vkerob/malloc): Custom memory allocator (malloc).
 - [**Inception-of-Things**](https://github.com/vkerob/Inception-of-Things): DevOps automation with Kubernetes, Docker, Argo CD.
 - MITM Network Lab: Docker-based MITM attack simulation (private access available upon request).
