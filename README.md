@@ -8,13 +8,13 @@ I like breaking things down to understand how they really work — from memory t
 
 ## 🔧 What I'm about
 
-I studied system-level programming and networking at 42 Angoulême, where I completed the **common core** — the first part of the curriculum.  
+I studied system-level programming and networking at 42 Angoulême, where I completed the **common core**.
 During that phase, I worked on projects like building a custom shell (`minishell`), reimplementing standard functions (`libft`, `ft_printf`, `get_next_line`), and writing a small 3D engine (`cub3d`).
 
-In the **advanced part of the program**, I chose to go deeper into system internals and infrastructure. I reimplemented `malloc`, explored assembly (`libasm`), audited a vulnerable website (`darkly`), and built my own Kubernetes pipeline (`Inception-of-Things`).  
+After completing the common core, I chose to go deeper into system internals and infrastructure. I reimplemented `malloc`, explored assembly (`libasm`), audited a vulnerable website (`darkly`), and built my own Kubernetes pipeline (`Inception-of-Things`).  
 I've also done personal networking projects, like simulating a **Man-in-the-Middle attack** using Docker containers.
 
-What drives me is understanding how things work at low level — memory, syscalls, networking, containers...  
+What drives me is understanding how things work at low level. memory, syscalls, networking, containers...  
 Now, I’m preparing to dive into **reverse engineering**, and I plan to try platforms like **RootMe** to sharpen my cybersecurity skills even further.
 
 ## 🚩 Featured Projects
